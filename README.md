@@ -1,2 +1,2 @@
 # logseq-nord-theme
-A Logseq them based on Nord, an arctic north-bluish color palette
+A Logseq theme based on Nord, an arctic north-bluish color palette
