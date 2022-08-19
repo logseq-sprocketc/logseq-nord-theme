@@ -1,0 +1,27 @@
+{
+  "name": "logseq-nord-theme",
+  "author": "Konstantinos Kaloutas",
+  "version": "0.0.1",
+  "description": "A Logseq theme based on Nord, an arctic north-bluish color palette",
+  "logseq": {
+    "themes": [
+      {
+        "name": "light",
+        "url": "./light.css",
+        "description": "A light theme based on Nord 🔆",
+        "mode": "light"
+      },
+      {
+        "name": "dark",
+        "url": "./dark.css",
+        "description": "A dark theme based on Nord ☕️",
+        "mode": "dark"
+      }
+    ],
+    "id": "logseq-nord-theme",
+    "icon": "./icon.svg"
+  },
+  "dependencies": {
+    "nord": "^0.2.1"
+  }
+}
