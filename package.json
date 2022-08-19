@@ -20,8 +20,5 @@
     ],
     "id": "logseq-nord-theme",
     "icon": "./icon.svg"
-  },
-  "dependencies": {
-    "nord": "^0.2.1"
   }
 }

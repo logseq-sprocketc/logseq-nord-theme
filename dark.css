@@ -1,3 +1,62 @@
+@import "nord.css";
+
 .dark-theme,
 html[data-theme=dark] {
+  --ls-primary-background-color: var(--nord0);
+  --ls-secondary-background-color: var(--nord1);
+  --ls-tertiary-background-color: var(--nord2);
+  --ls-quaternary-background-color: var(--nord3);
+  --ls-table-tr-even-background-color: #03333f;
+  --ls-active-primary-color: #8ec2c2;
+  --ls-active-secondary-color: #d0e8e8;
+  --ls-block-properties-background-color: #06323e;
+  --ls-page-properties-background-color: var(--nord1);
+  --ls-block-ref-link-text-color: #1a6376;
+  --ls-search-background-color: linear-gradient(
+    to right,
+    #021c23 0,
+    #021b21 200px,
+    #002b36 100%
+  );
+  --ls-border-color: var(--nord9);
+  --ls-secondary-border-color: var(--nord8);
+  --ls-tertiary-border-color: var(--nord10);
+  --ls-guideline-color: #0b4a5a;
+  --ls-menu-hover-color: var(--ls-secondary-background-color);
+  --ls-primary-text-color: var(--nord5);
+  --ls-secondary-text-color: var(--nord6);
+  --ls-title-text-color: var(--nord4);
+  --ls-link-text-color: var(--nord9);
+  --ls-link-text-hover-color: var(--ls-active-secondary-color);
+  --ls-link-ref-text-color: var(--ls-link-text-color);
+  --ls-link-ref-text-hover-color: var(--ls-link-text-hover-color);
+  --ls-tag-text-color: var(--ls-link-text-color);
+  --ls-tag-text-hover-color: var(--ls-link-text-hover-color);
+  --ls-slide-background-color: var(--ls-primary-background-color);
+  --ls-block-bullet-border-color: var(--nord9);
+  --ls-block-bullet-color: var(--nord8);
+  --ls-block-highlight-color: var(--nord10);
+  --ls-selection-background-color: var(--nord8);
+  --ls-page-checkbox-color: var(--nord9);
+  --ls-page-checkbox-border-color: var(--ls-primary-background-color);
+  --ls-page-blockquote-color: var(--ls-primary-text-color);
+  --ls-page-blockquote-bg-color: var(--ls-secondary-background-color);
+  --ls-page-blockquote-border-color: var(--ls-border-color);
+  --ls-page-inline-code-color: var(--ls-primary-text-color);
+  --ls-page-inline-code-bg-color: #01222a;
+  --ls-scrollbar-foreground-color: var(--nord9);
+  --ls-scrollbar-background-color: var(--nord3);
+  --ls-scrollbar-thumb-hover-color: rgba(255, 255, 255, 0.2);
+  --ls-head-text-color: var(--ls-link-text-color);
+  --ls-cloze-text-color: #8fbc8f;
+  --ls-icon-color: var(--ls-link-text-color);
+  --ls-search-icon-color: var(--ls-link-text-color);
+  --ls-a-chosen-bg: var(--ls-secondary-background-color);
+  --ls-right-sidebar-code-bg-color: #04303c;
+  --color-level-1: var(--ls-secondary-background-color);
+  --color-level-2: var(--ls-tertiary-background-color);
+  --color-level-3: var(--ls-quaternary-background-color);
+  --color-level-4: #195d6c;
+  --color-level-5: #266c7d;
+  --color-level-6: #3a7e8e;
 }
