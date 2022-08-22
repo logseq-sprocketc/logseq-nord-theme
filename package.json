@@ -22,7 +22,9 @@
     "icon": "./icon.svg"
   },
   "devDependencies": {
-    "@semantic-release/github": "^8.0.5"
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/npm": "^9.0.1"
   },
   "dependencies": {
     "@semantic-release/exec": "^6.0.3"
