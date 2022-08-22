@@ -20,5 +20,8 @@
     ],
     "id": "logseq-nord-theme",
     "icon": "./icon.svg"
+  },
+  "devDependencies": {
+    "semantic-release": "^19.0.3"
   }
 }
