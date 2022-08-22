@@ -24,8 +24,8 @@ html[data-theme=light] {
     --ls-title-text-color: var(--ls-primary-text-color);
     --ls-link-text-color: var(--nord8);
     --ls-link-text-hover-color: var(--nord9);
-    --ls-link-ref-text-color: #106ba3;
-    --ls-link-ref-text-hover-color: #1a537c;
+    --ls-link-ref-text-color: var(--nord9);
+    --ls-link-ref-text-hover-color: var(--nord0);
     --ls-tag-text-color: var(--ls-link-ref-text-color);
     --ls-tag-text-hover-color: var(--ls-link-ref-text-hover-color);
     --ls-slide-background-color: var(--nord6);
