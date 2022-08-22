@@ -49,7 +49,7 @@ html[data-theme=dark] {
   --ls-scrollbar-background-color: var(--nord3);
   --ls-scrollbar-thumb-hover-color: rgba(255, 255, 255, 0.2);
   --ls-head-text-color: var(--ls-link-text-color);
-  --ls-cloze-text-color: #8fbc8f;
+  --ls-cloze-text-color: var(--nord10);
   --ls-icon-color: var(--ls-link-text-color);
   --ls-search-icon-color: var(--ls-link-text-color);
   --ls-a-chosen-bg: var(--ls-secondary-background-color);
