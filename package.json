@@ -1,7 +1,7 @@
 {
   "name": "logseq-nord-theme",
   "author": "Konstantinos Kaloutas",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A Logseq theme based on Nord, an arctic north-bluish color palette",
   "logseq": {
     "themes": [
