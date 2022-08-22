@@ -22,6 +22,6 @@
     "icon": "./icon.svg"
   },
   "devDependencies": {
-    "semantic-release": "^19.0.3"
+    "@semantic-release/github": "^8.0.5"
   }
 }
