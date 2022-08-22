@@ -31,13 +31,13 @@ html[data-theme=light] {
     --ls-slide-background-color: var(--nord6);
     --ls-block-bullet-border-color: var(--nord5);
     --ls-block-bullet-color: rgba(67, 63, 56, 0.25);
-    --ls-block-highlight-color: #c0e6fd;
-    --ls-selection-background-color: #e4f2ff;
-    --ls-page-checkbox-color: #9dbbd8;
+    --ls-block-highlight-color: var(--nord7);
+    --ls-selection-background-color: var(--nord5);
+    --ls-page-checkbox-color: var(--nord9);
     --ls-page-checkbox-border-color: var(--ls-page-checkbox-color);
     --ls-page-blockquote-color: var(--ls-primary-text-color);
     --ls-page-blockquote-bg-color: #fbfaf8;
-    --ls-page-blockquote-border-color: #799bbc;
+    --ls-page-blockquote-border-color: var(--nord8);
     --ls-page-inline-code-bg-color: #f7f7f7;
     --ls-page-inline-code-color: var(--ls-primary-text-color);
     --ls-scrollbar-foreground-color: rgba(0, 0, 0, 0.1);
